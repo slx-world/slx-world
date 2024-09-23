@@ -1,7 +1,6 @@
 # 你好，欢迎来到我的GitHub！
 
 我是Xiong99，一名热爱编程和技术的开发者。
-![logo](https://github.com/user-attachments/assets/70b78904-7be3-4170-9f35-ed9be4d395c2)
 
 ## 关于我
 
@@ -27,8 +26,7 @@
 待补充，O(∩_∩)O哈哈~
 
 ## 统计数据
-
-!你的GitHub统计数据
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=slx-world))
 
 ## 联系我
 
@@ -37,3 +35,6 @@
 - 个人网站: https://slx-world.top/
 
 感谢你的访问，期待与你交流和合作！
+
+![logo](https://github.com/user-attachments/assets/70b78904-7be3-4170-9f35-ed9be4d395c2)
+
