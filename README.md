@@ -26,7 +26,7 @@
 待补充，O(∩_∩)O哈哈~
 
 ## 统计数据
-![Xiong's github stats](https://github-readme-stats.vercel.app/api?username=slx-world&show_icons=true&icon_color=1104fc&text_color=yellow&bg_color=fe1300)
+![Xiong's github stats](https://github-readme-stats.vercel.app/api?username=slx-world&show_icons=true&icon_color=1104fc&text_color=yellow&bg_color=d2adb5)
 
 ## 联系我
 
