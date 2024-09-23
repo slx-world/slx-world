@@ -26,11 +26,11 @@
 待补充，O(∩_∩)O哈哈~
 
 ## 统计数据
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=slx-world))
+![Xiong's github stats](https://github-readme-stats.vercel.app/api?username=slx-world&show_icons=true&icon_color=FFA500&text_color=white&bg_color=0000FF)
 
 ## 联系我
 
-- LinkedIn: https://www.github.com/slx-world
+- LinkedIn: https://github.com/slx-world
 - Twitter: 
 - 个人网站: https://slx-world.top/
 
