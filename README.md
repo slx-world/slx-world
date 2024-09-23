@@ -5,7 +5,7 @@
 ## 关于我
 
 - 🌱 目前正在学习和探索新的技术和工具
-- 💼 目前待业中，哈哈哈~~~
+- 💼 愿你一切安好，看尽世间璀璨
 - 💬 欢迎交流：你可以通过**slx9920@outlook.com**联系我
 - ⚡ 兴趣爱好：编程、阅读、旅行、运动、游戏
 
@@ -26,7 +26,7 @@
 待补充，O(∩_∩)O哈哈~
 
 ## 统计数据
-![Xiong's github stats](https://github-readme-stats.vercel.app/api?username=slx-world&show_icons=true&icon_color=1104fc&text_color=white&bg_color=ddb19c)
+![Xiong's github stats](https://github-readme-stats.vercel.app/api?username=slx-world&show_icons=true&icon_color=1104fc&text_color=white&bg_color=838692)
 
 ## 联系我
 
