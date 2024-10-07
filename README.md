@@ -30,8 +30,8 @@
 
 ## 联系我
 
-- LinkedIn: https://github.com/slx-world
-- Twitter: 
+- TikTok: https://www.tiktok.com/@xiong99520
+- Twitter: https://x.com/Xiong99520
 - 个人网站: https://slx-world.top/
 
 感谢你的访问，期待与你交流和合作！
