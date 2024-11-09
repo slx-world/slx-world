@@ -13,7 +13,7 @@
 ## :handbag:专业技能
 
 - 熟悉 Java（集合、反射、多线程）、Python 语言基础，了解 Flask、 Django、Selenium 框架
-- 熟悉 MySQ L数据库基础，了解事务、索引、锁及一些 SQL 优化，能熟练编写 SQL 脚本
+- 熟悉 MySQL 数据库基础，了解事务、索引、锁及一些 SQL 优化，能熟练编写 SQL 脚本
 - 熟悉 Redis 缓存数据库，了解其基本数据类型和缓存穿透、击穿、雪崩，以及分布式锁的基本原理
 - 熟悉 Spring、SpringMVC、MyBatis、SpringBoot 框架，熟悉 SpringCloud 相关组件，如 Ribbon、Feign、Nacos
 - 熟悉 RabbitMQ、Kafka 的基本原理和使用，如保证消息可靠性、幂等性
