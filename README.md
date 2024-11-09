@@ -1,4 +1,4 @@
-# 你好，欢迎来到我的GitHub！:star_struck:
+# 你好，欢迎来到我的GitHub！🤩
 
 我是Xiong99，一名热爱编程和技术的开发者。
 
