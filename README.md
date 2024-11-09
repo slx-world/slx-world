@@ -33,6 +33,7 @@
 
 ### :golf:[小熊到家]
 **:loudspeaker:项目描述**：一个家政服务O2O项目，该项目包括四个端：用户端（小程序）、服务端（APP）、机构端（PC）、运营管理端（PC）。用户可以通过平台在线下单和支付，家政服务人员则可以通过平台抢单或接受自动派单，根据预约时间前往现场服务。服务完成后，用户可以在线评价，还涵盖售后、退款等业务。
+
 该项目基于Spring Cloud Alibaba框架构建，是一个微服务架构的项目。主要服务包括运营基础服务、客户管理服务、订单管理服务、抢单服务、派单服务、优惠券服务、统计服务和评价服务等。
 
 **:computer:技术栈**：SpringBoot、SpringCloud、Mybatis、MySQL、Redis、Redission、Lua、RabbitMQ、Canal、Elasticsearch、XXL-JOB等
