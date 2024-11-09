@@ -9,11 +9,24 @@
 - 💬 欢迎交流：你可以通过**slx9920@outlook.com**联系我
 - ⚡ 兴趣爱好：编程、阅读、旅行、运动、游戏
 
-## 技术栈
+## 专业技能
 
-- **编程语言**: Python, Java
-- **框架和库**: Django, Flask, Spring, Springboot, Springcloud, Hadoop, Spark, Flink
-- **工具**: Git, Docker, Kubernetes, CI/CD (AppVeyor, Jenkins)
+- 熟悉 Java（集合、反射、多线程）、Python 语言基础，了解 Flask、 Django、Selenium 框架
+- 熟悉 MySQ L数据库基础，了解事务、索引、锁及一些 SQL 优化，能熟练编写 SQL 脚本
+- 熟悉 Redis 缓存数据库，了解其基本数据类型和缓存穿透、击穿、雪崩，以及分布式锁的基本原理
+- 熟悉 Spring、SpringMVC、MyBatis、SpringBoot 框架，熟悉 SpringCloud 相关组件，如 Ribbon、Feign、Nacos
+- 熟悉 RabbitMQ、Kafka 的基本原理和使用，如保证消息可靠性、幂等性
+- 熟悉大数据管理平台、蓝鲸智云及蓝盾 DevOps 平台的使用，熟悉 CI/CD 流程，可开发自动化插件或工具
+- 了解 JVM 理论基础，了解 JUC 并发编程，如 AQS、CAS、ThreadLocal 和线程池
+- 了解前端基础（HTML、CSS、JavaScript），了解 Hadoop 生态体系（Hadoop、Hive、MongoDB、Zookeeper）
+- 了解常用数据结构（线性表，队列、二叉树）和常用算法思想（双指针、排序、贪心）
+- 
+- 熟悉测试理论知识、测试流程和测试方法，以及测试用例的编写
+- 熟悉使用 ApiFox、Postman 进行接口测试，Locust、Jmeter 进行性能测试
+- 掌握 adb 命令，通过 monkey 完成 App 稳定性测试、弱网测试
+- 熟悉 Selenium、Appium、Pytest、UIautomator2 自动化测试框架
+- 熟悉 Fiddler、Charles 抓包工具，熟悉常用 Linux、Docker、K8s 命令的使用，以及 Git 团队协作开发
+- 熟悉禅道、Jira、TAPD、Teambition 项目管理工具，熟悉项目管理流程，熟悉 Excel、Xmind 常用软件的使用
 
 ## 项目
 
