@@ -57,7 +57,7 @@
 ## :e-mail:联系我
 
 - 我的邮箱：**slx9920@outlook.com**
-- 个人网站：**https://slx-world.top/**
+- 我的网站：**https://slx-world.top/**
 - TikTok：**https://www.tiktok.com/@xiong99520**
 - Twitter：**https://x.com/Xiong99520**
 
