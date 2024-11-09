@@ -52,7 +52,7 @@
 - 参与了积分排行榜功能的设计和开发。对用户的各种学习和交互行为做积分统计，例如签到积分、学习积分、问答积分等；并且按月累计积分形成赛季排行榜。做到了当前赛季排行榜的实时更新、历史赛季排行榜的分表持久保存。
 
 ## :sparkles:统计数据
-![Xiong's github stats](https://github-readme-stats.vercel.app/api?username=slx-world&show_icons=true&icon_color=1104fc&text_color=yellow&bg_color=d2adb5)
+![Xiong's github stats](https://github-readme-stats.vercel.app/api?username=slx-world&show_icons=true&icon_color=1104fc&text_color=yellow&bg_color=e19c44)
 
 ## :e-mail:联系我
 
