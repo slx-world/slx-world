@@ -1,4 +1,4 @@
-# :fireworks::fireworks::tada::tada:你好，欢迎来到我的GitHub！:heart_eyes::heart_eyes::star_struck::star_struck:
+# :fireworks::fireworks::tada::tada:你好，欢迎来到我的 GitHub ！:heart_eyes::heart_eyes::star_struck::star_struck:
 
 我是Xiong99，一名热爱编程和技术的开发者。
 
@@ -7,7 +7,7 @@
 - 🌱 目前正在学习和探索新的技术和工具
 - 🌸 追求完美，追求代码跟书法一样美观优雅
 - 💼 愿你一切安好，看尽世间璀璨
-- 💬 欢迎交流：你可以通过**slx9920@outlook.com**联系我
+- 💬 欢迎交流：你可以通过 **slx9920@outlook.com** 联系我
 - ⚡ 兴趣爱好：编程、阅读、旅行、运动、游戏、钓鱼、书法、练字、K 歌
 
 ## :handbag:专业技能
@@ -57,9 +57,9 @@
 ## :e-mail:联系我
 
 - 我的邮箱：**slx9920@outlook.com**
-- 个人网站: **https://slx-world.top/**
-- TikTok: **https://www.tiktok.com/@xiong99520**
-- Twitter: **https://x.com/Xiong99520**
+- 个人网站：**https://slx-world.top/**
+- TikTok：**https://www.tiktok.com/@xiong99520**
+- Twitter：**https://x.com/Xiong99520**
 
 感谢你的访问，期待与你交流和合作！
 
