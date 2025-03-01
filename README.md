@@ -1,6 +1,6 @@
 # :fireworks::fireworks::tada::tada:你好，欢迎来到我的 GitHub ！:heart_eyes::heart_eyes::star_struck::star_struck:
 
-我是 Xiong99，一名热爱编程和技术的开发者。
+我是 SLX，一名热爱编程和技术的开发者。
 
 ## :sunglasses:关于我
 
