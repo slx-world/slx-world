@@ -11,6 +11,10 @@
 - ⚡ 兴趣爱好：编程、阅读、旅行、运动、游戏、钓鱼、书法、练字、K 歌
 
 ## :handbag:专业技能
+![img_v3_02uo_9c7991d2-60f7-4714-802d-67b92ddbbe8g](https://github.com/user-attachments/assets/d15cd764-ebd0-40c1-907e-310ba2fc3be3)
+![img_v3_02uo_b6ceba3a-9f62-4b31-abf9-23edb18e15bg](https://github.com/user-attachments/assets/0fe8d206-8b88-4f3a-bf53-32b8b68191f8)
+![img_v3_02uo_9107166f-5632-40dd-801e-95bac3d3afdg](https://github.com/user-attachments/assets/4224e114-fa55-45ff-b64a-41aefe94bfbf)
+![img_v3_02uo_71749597-6e18-4646-9e2b-918026db7beg](https://github.com/user-attachments/assets/03cabe9b-1b23-44fb-b535-c36cfd8e7797)
 
 - 熟悉 Java（集合、反射、多线程）、Python 语言基础，了解 Flask、 Django、Selenium 框架
 - 熟悉 MySQL 数据库基础，了解事务、索引、锁及一些 SQL 优化，能熟练编写 SQL 脚本
